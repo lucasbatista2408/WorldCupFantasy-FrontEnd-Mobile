@@ -27,6 +27,20 @@ export const THEME = extendTheme({
     body: 'Roboto_400Regular',
     medium: 'Roboto_500Medium'
   },
+  fontConfig: {
+    Roboto:{
+      400: {
+        normal: "Roboto-Regular",
+      },
+      500: {
+        normal: "Roboto-Medium",
+      },
+      700: {
+        normal: "Roboto-Bold",
+      },
+    }
+  },
+
   fontSizes: {
     xs: 12,
     sm: 14,
