@@ -1,15 +1,15 @@
 {
   "expo": {
-    "name": "FrontEnd_mobile",
-    "slug": "FrontEnd_mobile",
+    "name": "front_end_mobile",
+    "slug": "front_end_mobile",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "resizeMode": "cover",
+      "backgroundColor": "black"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
